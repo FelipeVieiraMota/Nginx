@@ -1,3 +1,5 @@
+# https://hub.docker.com/_/nginx
+# https://kbroman.org/github_tutorial/pages/init.html
 # docker build .
 # docker run --name nginx-server -d -p 8080:80 nginx
 # Reach out the page locally -> http://localhost:8080
